@@ -1,0 +1,102 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<app-usernavbar></app-usernavbar>
+<div class="container">
+  
+
+  <div class="product-details" *ngIf="product">
+    <div class="left-section">
+      <img [src]="product.image" alt="Product Image">
+    </div>
+  
+    <div class="right-section">
+      <h2>{{ product.productName }}</h2>
+      <p [ngStyle]="{ color: product.availableQuantity === 0 ? 'red' : 'green', 'font-weight': 'bold'  }">
+        {{ product.availableQuantity === 0 ? 'Out of Stock' : 'In Stock' }}
+      </p>
+      <p class="product-price">
+        <span class="original-price" *ngIf="product.discount > 0">{{ product.price | currency:'INR' }}</span>
+        {{ product.price -(product.discount*product.price/100) | currency:'INR' }}
+      </p>
+  
+      <p class="product-discount">Discount: {{ product.discount }}%</p>
+      <p class="description">Description: {{ product.description }}</p>
+      <p>Category: {{ product.category }}</p>
+
+      <p>Available Quantity: {{ product.availableQuantity }}</p>
+    
+      <p>Specification: {{ product.specification }}</p>
+     
+      <div class="quantity-container">
+        <label for="quantity">Quantity:</label>
+        <input type="number" id="quantity" min="1" [max]="product.availableQuantity" [(ngModel)]="productQuantity">
+      </div>
+      <div *ngIf="showSuccessAlert1">
+        <app-animated-alert type="success" message="Product added to cart!!!!!"></app-animated-alert>
+      </div>
+    
+      <div *ngIf="showFailureAlert3">
+        <app-animated-alert type="failure" message="Error!!!! , Selected quantity unavailable"></app-animated-alert>
+      </div>
+      <button (click)="addToCart()" class="btn btn-primary">Add to Cart</button>
+      <div class="rating">
+        <label for="rating">Rate the product:</label>
+        <span (click)="selectRating(1)" [ngClass]="{ 'filled': selectedRating >= 1 }"><i class="fas fa-star"></i></span>
+        <span (click)="selectRating(2)" [ngClass]="{ 'filled': selectedRating >= 2 }"><i class="fas fa-star"></i></span>
+        <span (click)="selectRating(3)" [ngClass]="{ 'filled': selectedRating >= 3 }"><i class="fas fa-star"></i></span>
+        <span (click)="selectRating(4)" [ngClass]="{ 'filled': selectedRating >= 4 }"><i class="fas fa-star"></i></span>
+        <span (click)="selectRating(5)" [ngClass]="{ 'filled': selectedRating >= 5 }"><i class="fas fa-star"></i></span>
+      </div>
+      <div *ngIf="showSuccessAlert2">
+        <app-animated-alert type="success" message="Product rated successfully!!!!"></app-animated-alert>
+      </div>
+   
+      <button (click)="submitRating()" class="btn btn-secondary">Submit Rating</button>
+    </div>
+  </div>
+  
+  <div class="review-container">
+    <h3>Product Reviews</h3>
+    <div class="review" *ngFor="let review of reviews">
+      <p><strong>Name: </strong>{{ review.userName }}</p>
+      <p><strong>Comment: </strong>{{ review.review }}</p>
+    </div>
+    
+  
+    <div class="submit-review">
+      <h3>Submit Your Review</h3>
+      <div class="form-group">
+        <label for="userName">Your Name:</label>
+        <input type="text" id="userName" [(ngModel)]="newReview.userName">
+      </div>
+      <div class="form-group">
+        <label for="review">Your Comment:</label>
+        <textarea id="review" [(ngModel)]="newReview.review"></textarea>
+      </div>
+      <div class="alert-container2222">
+        <div *ngIf="showSuccessAlert3">
+          <app-animated-alert type="success" message="Product reviewed successfully!!!!"></app-animated-alert>
+        </div>
+      
+        <div *ngIf="showFailureAlert4">
+          <app-animated-alert type="failure" message="Error!!!!..Review already submitted by you"></app-animated-alert>
+        </div>
+      </div>
+      <button (click)="submitReview()" class="btn btn-primary">Submit Review</button>
+    </div>
+  </div>
+  
+  <div class="alert-container">
+    
+    
+    <div *ngIf="showFailureAlert1">
+      <app-animated-alert type="failure" message="Error!!!!"></app-animated-alert>
+    </div>
+  
+    <div *ngIf="showFailureAlert2">
+      <app-animated-alert type="failure" message="Error!!!!"></app-animated-alert>
+    </div>
+ 
+  
+   
+  </div>
+</div>

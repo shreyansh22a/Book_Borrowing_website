@@ -1,0 +1,14 @@
+<app-admin-navbar></app-admin-navbar>
+
+<div class="product-list">
+  <div *ngFor="let product of topSellingProducts" class="product-card">
+    <div class="product-details">
+      <h3>{{ product.productDetails.productName }}</h3>
+      <img class="product-image" [src]="product.productDetails?.image" alt="Product Image">
+      <p>Total Quantity Sold: {{ product.totalQuantitySold }}</p>
+    </div>
+    <div class="rating">
+      <span class="rating-stars" [ngClass]="getRatingClass(product.totalQuantitySold)"></span>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,36 @@
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.deps.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.csproj.AssemblyReference.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.AssemblyInfoInputs.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.AssemblyInfo.cs
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.csproj.CoreCompileInputs.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\refint\Shared_Layer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\ref\Shared_Layer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.deps.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.AssemblyInfo.cs
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\refint\Shared_Layer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\Shared_Layer\obj\Debug\net6.0\ref\Shared_Layer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.deps.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.AssemblyInfo.cs
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\refint\Shared_Layer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\Shared_Layer\obj\Debug\net6.0\ref\Shared_Layer.dll

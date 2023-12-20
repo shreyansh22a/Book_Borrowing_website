@@ -1,0 +1,45 @@
+<app-home-navbar></app-home-navbar>
+
+<div class="filter-bar">
+  <select [(ngModel)]="selectedCategory" (change)="filterByCategory()">
+    <option value="">All Categories</option>
+    <option *ngFor="let category of categories" [value]="category">{{ category }}</option>
+  </select>
+  <input type="text" [(ngModel)]="searchKeyword" (keyup)="filterByKeyword()" placeholder="Search">
+</div>
+
+<div class="product-list">
+  <div *ngFor="let product of paginatedProducts[currentPage - 1]" class="product-item" (click)="showProductDetails(product)">
+    <h3 class="product-name">{{ product.productName }}</h3>
+    <img class="product-image" [src]="product.image" alt="Product Image">
+    <p class="product-price">
+      <span class="original-price" *ngIf="product.discount > 0">{{ product.price | currency:'INR' }}</span>
+      {{ product.price -(product.discount*product.price/100) | currency:'INR' }}
+    </p>
+
+    <p class="product-discount">Discount: {{ product.discount }}%</p>
+    <p [ngStyle]="{ color: product.availableQuantity === 0 ? 'red' : 'green', 'font-weight': 'bold' }">
+      {{ product.availableQuantity === 0 ? 'Out of Stock' : 'In Stock' }}
+    </p>
+    <div class="rating">
+      <div *ngIf="ratings[product.id] !== undefined">
+        <div class="star-rating">
+          <span class="fa fa-star" [ngClass]="{'filled': ratings[product.id] >= 1}"></span>
+          <span class="fa fa-star" [ngClass]="{'filled': ratings[product.id] >= 2}"></span>
+          <span class="fa fa-star" [ngClass]="{'filled': ratings[product.id] >= 3}"></span>
+          <span class="fa fa-star" [ngClass]="{'filled': ratings[product.id] >= 4}"></span>
+          <span class="fa fa-star" [ngClass]="{'filled': ratings[product.id] >= 5}"></span>
+        </div>
+      </div>
+      <ng-container *ngIf="ratings[product.id] === undefined">
+        <span>Loading...</span>
+      </ng-container>
+    </div>
+  </div>
+</div>
+
+<div class="page-changer">
+  <button (click)="changePage(currentPage - 1)" [disabled]="currentPage === 1">&lt;</button>
+  <button *ngFor="let page of pages" [class.active]="currentPage === page" (click)="changePage(page)">{{ page }}</button>
+  <button (click)="changePage(currentPage + 1)" [disabled]="currentPage === pages.length">&gt;</button>
+</div>

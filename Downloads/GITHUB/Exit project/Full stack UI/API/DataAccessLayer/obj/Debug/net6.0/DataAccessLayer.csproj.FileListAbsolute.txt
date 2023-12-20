@@ -1,0 +1,65 @@
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete

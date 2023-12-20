@@ -1,0 +1,11 @@
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\bin\Debug\net7.0\SharedLayer.deps.json
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\bin\Debug\net7.0\SharedLayer.dll
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\bin\Debug\net7.0\SharedLayer.pdb
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\SharedLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\SharedLayer.AssemblyInfoInputs.cache
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\SharedLayer.AssemblyInfo.cs
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\SharedLayer.csproj.CoreCompileInputs.cache
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\SharedLayer.dll
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\refint\SharedLayer.dll
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\SharedLayer.pdb
+C:\Car rental assignment\backend\Car_Rentals\SharedLayer\obj\Debug\net7.0\ref\SharedLayer.dll

@@ -1,0 +1,30 @@
+<app-home-navbar></app-home-navbar>
+
+<div class="product-details" *ngIf="product">
+  <h2>{{ product.productName }}</h2>
+  <img [src]="product.image" alt="Product Image">
+  <p [ngStyle]="{ color: product.availableQuantity === 0 ? 'red' : 'green', 'font-weight': 'bold'  }">
+    {{ product.availableQuantity === 0 ? 'Out of Stock' : 'In Stock' }}
+  </p>
+  <p>
+    <p class="product-price">
+      <span class="original-price" *ngIf="product.discount > 0">{{ product.price | currency:'INR' }}</span>
+      {{ product.price -(product.discount*product.price/100) | currency:'INR' }}
+    </p>
+
+    <p class="product-discount">Discount: {{ product.discount }}%</p>
+  
+  <p class="description">Description: {{ product.description }}</p>
+  <p>Category: {{ product.category }}</p>
+
+  
+  <p>Specification: {{ product.specification }}</p>
+</div>
+
+<div class="review-container">
+  <h3>Product Reviews</h3>
+  <div class="review" *ngFor="let review of reviews">
+    <p><strong>Name: </strong>{{ review.userName }}</p>
+    <p><strong>Comment: </strong>{{ review.review }}</p>
+  </div>
+</div>

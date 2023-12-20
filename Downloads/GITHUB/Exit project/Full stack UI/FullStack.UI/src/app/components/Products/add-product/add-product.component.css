@@ -1,0 +1,67 @@
+.add-product-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.add-product-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.add-product-container label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.add-product-container input[type="text"],
+.add-product-container input[type="number"],
+.add-product-container textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  transition: border-color 0.3s;
+}
+
+.add-product-container input[type="file"] {
+  margin-bottom: 15px;
+}
+
+.add-product-container textarea {
+  height: 100px;
+}
+
+.add-product-container input[type="text"]:focus,
+.add-product-container input[type="number"]:focus,
+.add-product-container textarea:focus {
+  border-color: #4caf50; /* Green color on focus */
+}
+
+.add-product-container button {
+  background-color: #4caf50; /* Green color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.add-product-container button:hover {
+  background-color: #45a049; /* Darker green color on hover */
+}
+.error {
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+}

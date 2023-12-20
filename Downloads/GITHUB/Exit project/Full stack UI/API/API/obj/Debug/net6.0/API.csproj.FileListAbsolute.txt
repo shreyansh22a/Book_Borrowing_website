@@ -1,0 +1,463 @@
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\API.exe
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\API.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\syedadeebulhasan\source\repos\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.exe
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\shreyanshnema\Exit project\Full stack UI\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.exe
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.exe
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\priyeshzope\Downloads\Exit project\Exit project\Full stack UI\API\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\API.exe
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\API.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Business_Layer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Business_Layer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\bin\Debug\net6.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\shreyanshnema\Downloads\API (2)\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Documents\Exit project\Full stack UI\API\API\bin\Debug\net6.0\Shared_Layer.pdb

@@ -1,0 +1,63 @@
+<app-admin-navbar></app-admin-navbar>
+
+<div class="add-product-container">
+  <div>
+    <h2>Add Product</h2>
+
+    <form [formGroup]="productForm" (ngSubmit)="addProduct()">
+      <div>
+        <label for="productName">Product Name:</label>
+        <input type="text" id="productName" formControlName="productName" [ngClass]="{'error': isInvalid('productName')}">
+        <div *ngIf="isInvalid('productName') && productForm.get('productName')?.errors?.['required']" class="error-message">Product Name is required.</div>
+      </div>
+
+      <div>
+        <label for="description">Description:</label>
+        <textarea id="description" formControlName="description" [ngClass]="{'error': isInvalid('description')}"></textarea>
+        <div *ngIf="isInvalid('description') && productForm.get('description')?.errors?.['required']" class="error-message">Description is required.</div>
+      </div>
+
+      <div>
+        <label for="category">Category:</label>
+        <input type="text" id="category" formControlName="category" [ngClass]="{'error': isInvalid('category')}">
+        <div *ngIf="isInvalid('category') && productForm.get('category')?.errors?.['required']" class="error-message">Category is required.</div>
+      </div>
+
+      <div>
+        <label for="availableQuantity">Available Quantity:</label>
+        <input type="number" id="availableQuantity" formControlName="availableQuantity" [ngClass]="{'error': isInvalid('availableQuantity')}">
+        <div *ngIf="isInvalid('availableQuantity') && productForm.get('availableQuantity')?.errors?.['required']" class="error-message">Available Quantity is required.</div>
+      </div>
+
+      <div>
+        <label for="image">Image:</label>
+        <input type="file" id="image" accept="image/jpeg" (change)="onFileSelected($event)" >
+       
+      </div>
+
+      <div>
+        <label for="price">Price:</label>
+        <input type="number" id="price" formControlName="price" [ngClass]="{'error': isInvalid('price')}">
+        <div *ngIf="isInvalid('price') && productForm.get('price')?.errors?.['required']" class="error-message">Price is required.</div>
+      </div>
+
+      <div>
+        <label for="discount">Discount in %:</label>
+        <input type="number" id="discount" formControlName="discount" [ngClass]="{'error': isInvalid('discount')}">
+        <!-- Additional validation for discount -->
+        <div *ngIf="isInvalid('discount')">
+          <div *ngIf="productForm.get('discount')?.errors?.['required']" class="error-message">Discount is required.</div>
+          <div *ngIf="productForm.get('discount')?.errors?.['min']" class="error-message">Discount must be greater than or equal to 0.</div>
+        </div>
+      </div>
+
+      <div>
+        <label for="specification">Specification:</label>
+        <textarea id="specification" formControlName="specification" [ngClass]="{'error': isInvalid('specification')}"></textarea>
+        <div *ngIf="isInvalid('specification') && productForm.get('specification')?.errors?.['required']" class="error-message">Specification is required.</div>
+      </div>
+
+      <button type="submit">Add Product</button>
+    </form>
+  </div>
+</div>

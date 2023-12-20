@@ -1,0 +1,46 @@
+<app-admin-navbar></app-admin-navbar>
+
+<div class="edit-product-container">
+  <h2>Edit Product</h2>
+<div>
+  <label for="productName">Product Name:</label>
+  <input type="text" id="productName" [(ngModel)]="product.productName">
+</div>
+
+<div>
+  <label for="description">Description:</label>
+  <textarea id="description" [(ngModel)]="product.description"></textarea>
+</div>
+
+<div>
+  <label for="category">Category:</label>
+  <input type="text" id="category" [(ngModel)]="product.category">
+</div>
+
+<div>
+  <label for="availableQuantity">Available Quantity:</label>
+  <input type="number" id="availableQuantity" [(ngModel)]="product.availableQuantity">
+</div>
+
+<div>
+  <label for="image">Image:</label>
+  <input type="file" id="image" accept="image/jpeg" (change)="onFileSelected($event)">
+</div>
+
+<div>
+  <label for="price">Price:</label>
+  <input type="number" id="price" [(ngModel)]="product.price">
+</div>
+
+<div>
+  <label for="discount">Discount in %:</label>
+  <input type="number" id="discount" [(ngModel)]="product.discount">
+</div>
+
+<div>
+  <label for="specification">Specification:</label>
+  <textarea id="specification" [(ngModel)]="product.specification"></textarea>
+</div>
+
+<button (click)="updateProduct()">Edit Product</button>
+</div>

@@ -1,0 +1,70 @@
+<app-usernavbar></app-usernavbar>
+
+<div class="cart-container">
+  <h2>Your Cart</h2>
+
+  <div class="cart-summary">
+    <div *ngIf="showSuccessAlert">
+      <app-animated-alert type="success" message="Order Placed!!!"></app-animated-alert>
+    </div>
+
+    <div *ngIf="showFailureAlert">
+      <app-animated-alert type="failure" message="Order not Placed!!!"></app-animated-alert>
+    </div>
+
+    <div *ngIf="showFailureAlert3">
+      <app-animated-alert type="failure" message="Order not Placed!!! Selected Quantity not available"></app-animated-alert>
+    </div>
+
+    <button class="order-button" (click)="placeOrder()">Order Now</button>
+
+    <div *ngIf="showSuccessAlert4">
+      <app-animated-alert type="success" message="Your cart is empty now"></app-animated-alert>
+    </div>
+
+    <button class="empty-cart" (click)="emptyCart()">Empty Cart</button>
+  </div>
+
+  <div class="total-amount">
+    Total Amount to Pay: {{ calculateTotalPriceToPay() | currency:'INR'}}
+  </div>
+
+  <div class="cart-items">
+    <div *ngFor="let item of cartItems" class="cart-item" >
+      <div class="product-image">
+        <img [src]="item.image" alt="Product Image">
+      </div>
+      <!-- Quantity control -->
+      <div class="quantity-container">
+        <button (click)="decreaseQuantity(item)">-</button>
+        <input type="number" [value]="item.productQuantity" [disabled]="true" />
+        <button (click)="increaseQuantity(item)">+</button>
+       
+      </div>
+      
+      <div class="product-details">
+        <div class="product-info">
+          
+          <h3>{{ item.productName }}</h3>
+          <p class="product-price">
+            <span class="original-price" *ngIf="item.discount > 0">{{ item.price | currency:'INR' }}</span>
+            {{ item.price - (item.discount * item.price / 100) | currency:'INR' }}
+          </p>
+          <p class="product-discount">Discount: {{ item.discount }}%</p>
+          <p class="description">{{ item.description }}</p>
+          <p class="availability">Availability: {{ item.availableQuantity }}</p>
+          <p class="calculated-price">Calculated Price: {{ (item.price - (item.discount * item.price / 100)) * item.productQuantity | currency:'INR' }}</p>
+        </div>
+        
+        <button class="delete-button" (click)="deleteCartItem(item.cartID)">Delete</button>
+      </div>
+    </div>
+  </div>
+  
+
+  <div *ngIf="showSuccessAlert5" class="alert-container">
+    <div class="alert-wrapper">
+      <app-animated-alert type="success" message="Product deleted from Cart.."></app-animated-alert>
+    </div>
+  </div>
+</div>

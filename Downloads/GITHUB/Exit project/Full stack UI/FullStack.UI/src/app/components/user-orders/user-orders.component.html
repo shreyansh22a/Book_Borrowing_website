@@ -1,0 +1,26 @@
+<app-usernavbar></app-usernavbar>
+<h2 class="orders-heading">My Orders</h2>
+<div class="order-container">
+  <table class="order-table">
+    <thead>
+      <tr>
+        <th>Product Image</th>
+        <th>Product Name</th>
+        <th>Price Paid</th>
+        <th>Quantity Purchased</th>
+        <th>Order Date</th>
+        <th>Order Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="order-item" *ngFor="let item of productDetails" (click)="showProductDetails(item)">
+        <td><img [src]="item.image" alt="Product Image" class="product-image"></td>
+        <td>{{ item.productName }}</td>
+        <td>{{ item.totalMoneyPaid }}</td>
+        <td>{{ item.productQuantity }}</td>
+        <td>{{ item.orderDate | date }}</td>
+        <td>{{ item.orderTime | date:'shortTime' }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
