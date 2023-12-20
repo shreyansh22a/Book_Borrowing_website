@@ -1,0 +1,17 @@
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\bin\Debug\net8.0\Business_Layer.deps.json
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\bin\Debug\net8.0\Business_Layer.dll
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\bin\Debug\net8.0\Business_Layer.pdb
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\bin\Debug\net8.0\Shared_Layer.dll
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\bin\Debug\net8.0\Shared_Layer.pdb
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.AssemblyInfoInputs.cache
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.AssemblyInfo.cs
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.csproj.CopyComplete
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.dll
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\refint\Business_Layer.dll
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\Business_Layer.pdb
+C:\Users\shreyanshnema\Downloads\Book Borrowing System\Backend\Book_Borrowing_System\Business_Layer\obj\Debug\net8.0\ref\Business_Layer.dll

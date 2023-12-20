@@ -1,0 +1,49 @@
+/* Update this in your CSS file */
+
+/* Navbar Styles */
+.navbar {
+    background-color: #000000; /* Navbar background color */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .navbar-brand {
+    color: #ffffff; /* Navbar brand color */
+    font-size: 1.5rem;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #d80000; /* Toggler icon color */
+  }
+  
+  /* Navbar Links Styles */
+  .navbar-nav .nav-link {
+    padding: 15px;
+    color: #ffffff; /* Navbar link color */
+  }
+  
+  .nav-item {
+    margin-right: 15px; /* Space between navbar items */
+  }
+  
+  /* Navbar Button Styles */
+  .login-button,
+  .register-button {
+    color: #fff; /* Button text color */
+   
+    transition: background-color 0.3s ease; 
+  }
+  .login-button:hover,
+.register-button:hover {
+    background-color: #555; /* New background color on hover */
+}
+  
+  .login-button {
+    background-color: transparent; /* Transparent background for login button */
+  }
+  
+  .register-button {
+    background-color: transparent; /* Transparent background for register button */
+  }
+  
+
+

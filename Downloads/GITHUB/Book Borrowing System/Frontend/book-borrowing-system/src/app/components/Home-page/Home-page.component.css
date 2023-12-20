@@ -1,0 +1,52 @@
+/* Add your component-specific styles here */
+.container {
+    max-width: 800px; /* Adjust as needed */
+    margin: auto;
+    z-index: 1; /* Set a higher z-index than the modal */
+  }
+body {
+    background-image: url('../../../assets/images/bg3.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    
+  }
+  
+  
+  .alert-info {
+    background-color: #d1ecf1;
+    color: #0c5460;
+    border-color: #bee5eb;
+  }
+  
+  .table th,
+  .table td {
+    text-align: center;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+ 
+
+.search-box-container {
+  height: 100%;
+}
+
+.input-group-text {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}

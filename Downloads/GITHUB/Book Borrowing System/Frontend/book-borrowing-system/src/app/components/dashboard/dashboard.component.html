@@ -1,0 +1,121 @@
+<link
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  rel="stylesheet"
+/>
+
+  <!-- Add necessary Bootstrap stylesheets and scripts to your HTML file -->
+
+<app-user-navbar></app-user-navbar>
+
+<div class="container mt-5">
+  <div *ngIf="loggedIn; " class="dashboard-content">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+      <!-- Welcome Message on Top Left -->
+      <h1 class="welcome-message">Welcome, {{ username }}!</h1>
+
+      <!-- Tokens Available on Top Right -->
+      <p class="tokens-info">Tokens Available: {{ availableTokens }}</p>
+    </div>
+    <button *ngIf="loggedIn" (click)="addNewBook()" class="btn btn-primary mt-3">Add New Book</button>
+    <div class="row mb-3 justify-content-center align-items-center search-box-container">
+      <div class="col-md-6">
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text"><i class="material-icons">search</i></span>
+          </div>
+          <input
+            type="text"
+            class="form-control search-input"
+            placeholder="Search by Name, Author, or Genre"
+            [(ngModel)]="searchTerm"
+            (input)="searchBooks()"
+          />
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="row">
+      <!-- Column for Book Details Table -->
+      <div class="col-md-13">
+        <table class="table table-striped mt-4">
+          <thead>
+            <tr>
+              <th>Book Name</th>
+              <th>Author</th>
+              <th>Genre</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let book of filteredBooks">
+              <td>{{ book.name }}</td>
+              <td>{{ book.author }}</td>
+              <td>{{ book.genre }}</td>
+              <td>
+                <button (click)="showBookDetails(book)" class="btn btn-info btn-sm">Details</button>
+                <ng-container *ngIf="book.isBookAvailable && loggedIn">
+                  <button (click)="borrowBook(book)" class="btn btn-success btn-sm">Borrow</button>
+                </ng-container>
+                <ng-container *ngIf="!book.isBookAvailable">
+                  <p class="already-borrowed-info">Already borrowed by someone</p>
+                </ng-container>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+ 
+
+      <div class="modal" *ngIf="showForm">
+        <div class="modal-dialog">
+            <div class="modal-content border-black">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Add New Book</h5>
+              <button type="button" class="btn-close" (click)="cancelAddBook()" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <!-- Your existing form content -->
+              <form [formGroup]="newBookForm" (ngSubmit)="onSubmitNewBook()">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="mb-3">
+                      <label for="newBookTitle" class="form-label">Name</label>
+                      <input type="text" class="form-control" id="newBookTitle" formControlName="name" required>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="mb-3">
+                      <label for="newBookAuthor" class="form-label">Author</label>
+                      <input type="text" class="form-control" id="newBookAuthor" formControlName="author" required>
+                    </div>
+                  </div>
+                </div>
+      
+                <div class="row">
+                  
+                  
+                    <div class="mb-3">
+                      <label for="newBookGenre" class="form-label">Genre</label>
+                      <input type="text" class="form-control" id="newBookGenre" formControlName="genre" required>
+                    </div>
+                  </div>
+               
+      
+                <div class="mb-3">
+                  <label for="newBookDescription" class="form-label">Description</label>
+                  <textarea class="form-control" id="newBookDescription" formControlName="description" required></textarea>
+                </div>
+      
+                <button type="submit" class="btn btn-success">Save</button>
+                <button type="button" class="btn btn-secondary ml-2" (click)="cancelAddBook()">Cancel</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+</div>

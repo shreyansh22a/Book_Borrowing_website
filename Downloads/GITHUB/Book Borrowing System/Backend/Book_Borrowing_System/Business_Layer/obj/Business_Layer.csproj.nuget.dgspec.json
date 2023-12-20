@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Business_Layer\\Business_Layer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Business_Layer\\Business_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Business_Layer\\Business_Layer.csproj",
+        "projectName": "Business_Layer",
+        "projectPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Business_Layer\\Business_Layer.csproj",
+        "packagesPath": "C:\\Users\\shreyanshnema\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Business_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shreyanshnema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Data_Access_Layer\\Data_Access_Layer.csproj": {
+                "projectPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Data_Access_Layer\\Data_Access_Layer.csproj"
+              },
+              "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Shared_Layer\\Shared_Layer.csproj": {
+                "projectPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Shared_Layer\\Shared_Layer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Data_Access_Layer\\Data_Access_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Data_Access_Layer\\Data_Access_Layer.csproj",
+        "projectName": "Data_Access_Layer",
+        "projectPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Data_Access_Layer\\Data_Access_Layer.csproj",
+        "packagesPath": "C:\\Users\\shreyanshnema\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Data_Access_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shreyanshnema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Shared_Layer\\Shared_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Shared_Layer\\Shared_Layer.csproj",
+        "projectName": "Shared_Layer",
+        "projectPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Shared_Layer\\Shared_Layer.csproj",
+        "packagesPath": "C:\\Users\\shreyanshnema\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shreyanshnema\\Downloads\\Book Borrowing System\\Backend\\Book_Borrowing_System\\Shared_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shreyanshnema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

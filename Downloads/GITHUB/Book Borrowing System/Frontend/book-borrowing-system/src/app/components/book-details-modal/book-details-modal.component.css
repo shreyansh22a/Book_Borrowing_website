@@ -1,0 +1,62 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+.modal-dialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-height: 00px; /* Set a minimum height to prevent flickering */
+  }
+  
+  
+  .modal-content {
+    background-color: #fff; /* Set the background color to opaque white */
+    border: 2px solid #007bff; /* Add a border with a primary color */
+  }
+  .filled {
+    color: gold; /* or any other color you prefer for filled stars */
+  }
+  
+  
+  .modal-header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 1rem;
+    align-items: center;
+    border-bottom: 1px solid #000000;
+  }
+  .star-rating {
+    color: #FFD700; /* Golden color for stars */
+  }
+
+  .book-name {
+    font-size: 30px; 
+  }
+  
+  .modal-body p {
+    margin-bottom: 10px;
+  }
+  
+  
+  .modal-body {
+    padding: 1rem;
+  }
+  
+  .modal-footer {
+    padding: 1rem;
+    border-top: 1px solid #dee2e6;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #5a6268;
+  }
+  .custom-modal-dialog {
+    max-width: 60%;
+    width: 40%;
+    max-height: 90%;
+    height: 80%;
+  }

@@ -1,0 +1,50 @@
+/* Add this CSS to your global styles or the styles specific to your component */
+
+.container {
+    max-width: 600px; /* Adjust the width as needed */
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #000000; /* Add a 1px solid border with a light gray color */
+    box-sizing: border-box;
+;
+    background-color: #fff;
+  }
+  
+  h2 {
+    color: #007bff; /* Bootstrap primary color, adjust as needed */
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .form-control:focus {
+    border-color: #007bff; /* Bootstrap primary color, adjust as needed */
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25); /* Bootstrap primary color with 25% opacity, adjust as needed */
+  }
+  
+  .btn-primary {
+    color: #fff;
+    background-color: #007bff; /* Bootstrap primary color, adjust as needed */
+    border-color: #007bff; /* Bootstrap primary color, adjust as needed */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker shade for hover effect, adjust as needed */
+    border-color: #0056b3; /* Darker shade for hover effect, adjust as needed */
+  }
+  

@@ -1,0 +1,118 @@
+/* Add this CSS code to your styles.css or component-specific styles file */
+
+/* Dashboard Content */
+.dashboard-content {
+    text-align: center;
+
+  }
+  
+  .welcome-message {
+    font-size: 2rem;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.tokens-info {
+    font-size: 1.2rem;
+    color: #000000;
+    font-weight: bold;
+    background-color: #ffffff; /* Green background color */
+    padding: 8px 12px; /* Add padding for a cleaner look */
+    border-radius: 4px; /* Add rounded corners */
+    border: 2px solid #000000;
+}
+
+  
+  /* Book Table */
+  .table th, .table td {
+    text-align: center;
+    border: 2px solid #977d7d; /* Add a 1px solid border with a light gray color */
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  /* Buttons */
+  .btn-info, .btn-success, .btn-primary, .btn-secondary {
+    margin-right: 5px;
+
+  }
+  
+  /* Already Borrowed Info */
+  .already-borrowed-info {
+    color: #dc3545;
+  }
+  .modal {
+    margin-top: 60px; /* Adjust the value based on your navbar's height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000000; /* Add a 1px solid border with a light gray color */
+    box-sizing: border-box;
+  }
+  .border-black {
+    border: 2px solid #7d5454; /* Adjust the border color and width as needed */
+  }
+  
+
+  /* Login Info */
+  .login-info {
+    color: #dc3545;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  /* New Book Form Card */
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid #000000; /* Add a 1px solid border with a light gray color */
+    box-sizing: border-box;
+  }
+  
+  .card-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* Form Fields */
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  /* Animations */
+  .animated {
+    animation-duration: 1s;
+  }
+  
+  .fadeIn {
+    animation-name: fadeIn;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+ /* Add these styles to your existing CSS file */
+
+/* Add these styles to your existing CSS file */
+
+.search-box-container {
+  text-align: center;
+  height: 100%;
+  margin-top: 5px;
+}
+
+.input-group-prepend .input-group-text {
+  height: 40px; /* Set the desired height for the search container */
+  border-radius: 5px;
+}
+
+.input-group-prepend .input-group-text i {
+  font-size: 1.2rem; /* Adjust the font size of the search icon */
+  line-height: 40px; /* Set the same height as the search container */
+}
+

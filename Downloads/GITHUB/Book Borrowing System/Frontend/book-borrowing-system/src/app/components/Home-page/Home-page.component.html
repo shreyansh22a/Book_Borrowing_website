@@ -1,0 +1,59 @@
+<link
+  href="https://fonts.googleapis.com/icon?family=Material+Icons"
+  rel="stylesheet"
+/>
+
+<body>
+  <app-navbar></app-navbar>
+  <div class="container mt-5">
+    <div class="alert alert-info" role="alert">
+      To borrow a book, kindly login or register.
+    </div>
+
+
+<div class="row mb-3 justify-content-center align-items-center search-box-container">
+  <div class="col-md-6">
+    <div class="input-group">
+      <div class="input-group-prepend">
+        <span class="input-group-text"><i class="material-icons">search</i></span>
+      </div>
+      <input
+        type="text"
+        class="form-control search-input"
+        placeholder="Search by Name, Author, or Genre"
+        [(ngModel)]="searchTerm"
+        (input)="searchBooks()"
+      />
+    </div>
+  </div>
+</div>
+
+
+
+
+    <div class="row">
+      <div class="col-md-12">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th>Book Name</th>
+              <th>Author</th>
+              <th>Genre</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let book of filteredBooks">
+              <td>{{ book.name }}</td>
+              <td>{{ book.author }}</td>
+              <td>{{ book.genre }}</td>
+              <td>
+                <button (click)="showBookDetails(book)" class="btn btn-primary">Details</button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>

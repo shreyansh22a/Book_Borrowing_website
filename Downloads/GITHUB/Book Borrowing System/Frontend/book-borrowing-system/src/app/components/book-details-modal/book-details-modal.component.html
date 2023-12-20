@@ -1,0 +1,36 @@
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.17.0/font/bootstrap-icons.css" rel="stylesheet">
+
+
+<div class="modal-dialog modal-dialog-centered custom-modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title book-name">{{ data.name }}</h5>
+        <button type="button" class="btn-close" (click)="closeDialog()" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-6">
+            <p><strong>Author:</strong> {{ data.author }}</p>
+            <p><strong>Genre:</strong> {{ data.genre }}</p>
+          </div>
+          <div class="col-md-6">
+            <p><strong>Rating:</strong>
+              <span *ngFor="let star of renderStarRating(data.rating)">
+                <i *ngIf="star.type === 'full'" class="fas fa-star filled"></i>
+                <i *ngIf="star.type === 'half'" class="fas fa-star-half-alt filled"></i>
+                <i *ngIf="star.type === 'empty'" class="far fa-star"></i>
+              </span>
+
+            </p>
+            <p><strong>Availability:</strong> {{ data.isBookAvailable ? 'Yes' : 'No' }}</p>
+          </div>
+        </div>
+        <div class="mt-4">
+          <p><strong>Description:</strong> {{ data.description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  

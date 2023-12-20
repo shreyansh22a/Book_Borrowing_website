@@ -1,0 +1,96 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+.far.fa-star {
+    color: #ccc;
+    cursor: pointer;
+  }
+  .star-rating {
+    font-size: 24px;
+  }
+  
+  .star-rating i {
+    cursor: pointer;
+  }
+ 
+  
+ 
+  
+  .rating span {
+    font-size: 10px;
+    color: #fffefe;
+    cursor: pointer;
+    
+  }
+  
+  .rating span.filled {
+    color: rgb(255, 251, 0);
+  }
+   
+  
+  .rating span {
+    cursor: pointer;
+    color: #888;
+    font-size: 25px;
+    transition: color 0.3s;
+    
+  }
+  
+  .rating {
+    display: flex;
+    gap: 3px;
+  }
+  .filled {
+    color: gold; 
+  }
+
+  
+
+.container {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #ffffff; 
+    font-size: 50px;
+  }
+  
+  .table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #007bff; 
+    color: white;
+  }
+  
+  .rating {
+    display: flex;
+    gap: 3px;
+  }
+  
+  .rating .filled {
+    color: rgb(207, 178, 9); 
+  }
+  
+  .btn-success {
+    background-color: #28a745; 
+    color: white;
+    align-self: center;
+  }
+  
+  .btn-primary {
+    background-color: #007bff; 
+    color: white;
+    align-items: center;
+  }
+  
+
+  

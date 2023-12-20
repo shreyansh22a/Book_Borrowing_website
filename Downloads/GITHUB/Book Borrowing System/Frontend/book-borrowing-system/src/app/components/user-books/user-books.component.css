@@ -1,0 +1,42 @@
+/* Add your global styles or import a stylesheet here */
+.container {
+    margin-top: 20px;
+  }
+h2 {
+    color: #ffffff;
+    margin-top: 5px;
+    font-size: 50px;
+  }
+  
+  .table {
+    width: 100%;
+    
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #007bff; /* Header background color, you can change it */
+    color: white;
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Primary button color, you can change it */
+    color: white;
+  }
+  
+  .btn-danger {
+    margin-left: 5px;
+    background-color: #dc3545; /* Danger button color, you can change it */
+    color: white;
+  }
+  
+  /* Customize as needed */
+  
